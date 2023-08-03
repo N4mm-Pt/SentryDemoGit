@@ -11,7 +11,7 @@ using Sentry;
 
 namespace MagicVilla_VillaAPI.Controllers.v1
 {
-    //fix
+    //fix the issues
     //[Route("api/[controller]")]
     [Route("api/v{version:apiVersion}/VillaAPI")]
     [ApiController]
